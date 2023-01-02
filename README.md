@@ -39,7 +39,4 @@ I am Nicusor Iorga, people call me Nicu. I am a tech enthusiast . Always open to
 ![BitBucket](https://img.shields.io/badge/-BitBucket-darkblue?style=flat-square&logo=bitbucket)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=ioghistudio&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ioghistudio&hide=TeX&layout=compact&langs_count=10)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
