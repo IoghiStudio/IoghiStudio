@@ -40,6 +40,6 @@ I am Nicusor Iorga, people call me Nicu, a recent computer science graduate from
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=ioghistudio&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ioghistudio&hide=TeX&langs_count=10)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ioghistudio&hide=TeX&layout=compact&langs_count=10)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
