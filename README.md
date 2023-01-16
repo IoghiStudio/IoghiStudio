@@ -1,6 +1,6 @@
 ## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Nicusor Iorga, people call me Nicu. I am a tech enthusiast . Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here:
+I am Nicusor Iorga, people call me Nicu. I am a tech enthusiast . Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here :
 
 [![Linkedin Badge](https://img.shields.io/badge/-nicusoriorga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicusor-iorga/)](https://www.linkedin.com/in/nicusor-iorga/)
 [![Instagram Badge](https://img.shields.io/badge/-nicu.irg-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/nicu.irg-2222/)]
