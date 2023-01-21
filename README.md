@@ -1,11 +1,10 @@
 ## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Nicusor Iorga, people call me Nicu. I am a tech enthusiast . Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here :
+I am Nicusor Iorga, people call me Nicu. I love tech . Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here :
 
 [![Linkedin Badge](https://img.shields.io/badge/-nicusoriorga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicusor-iorga/)](https://www.linkedin.com/in/nicusor-iorga/)
 [![Instagram Badge](https://img.shields.io/badge/-nicu.irg-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://instagram.com/nicu.irg-2222/)]
 [![Gmail Badge](https://img.shields.io/badge/-nicu.irg@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:nicu.irg@gmail.com)](mailto:nicu.irg@gmail.com)
-[![Codewars](https://img.shields.io/badge/-Codewars-black?style=flat-square&logo=Codewars&link=https://www.codewars.com/users/IoghiStudio/)]
 
 ## ⚡ Technologies
 
