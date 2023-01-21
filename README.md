@@ -34,5 +34,8 @@ I am Nicusor Iorga, people call me Nicu. I love tech . Always open to collaborat
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Google Chrome](https://img.shields.io/badge/Chrome-black?style=flat-square&logo=google-chrome)
 ![Discord](https://img.shields.io/badge/Discord-black?style=flat-square&logo=discord)
+![Android](https://img.shields.io/badge/Android-05150C?style=flat-square&logo=android)
+![MaterialUI](https://img.shields.io/badge/-MatrialUI-0081CB?style=flat-square&logo=material-UI)
+![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
