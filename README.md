@@ -39,3 +39,4 @@ I am Nicusor Iorga, people call me Nicu. I love tech . Always open to collaborat
 ![Firebase](https://img.shields.io/badge/Firebase-black?style=flat-square&logo=firebase)
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=aemmadi.aemmadi)
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=IoghiStudio)
