@@ -6,7 +6,7 @@ I am Nicusor Iorga, people call me Nicu. I love tech . Always open to collaborat
 [![Instagram Badge](https://img.shields.io/badge/-nicu.irg-purple?style=plastic&logo=Instagram&logoColor=white&link=https://instagram.com/nicu.irg-2222/)]
 [![Gmail Badge](https://img.shields.io/badge/-nicu.irg@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:nicu.irg@gmail.com)](mailto:nicu.irg@gmail.com)
 [![Instagram Badge](https://img.shields.io/badge/-nicu.irg-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/niku.pkfr/)]
-(https://instagram.com/moshfiqrony)
+(https://instagram.com/nicu.pkfr)
 
 ## ⚡ Technologies
 
