@@ -1,6 +1,7 @@
 ## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-I am Nicusor Iorga, people call me Nicu. I love tech. Always open to collaborating on projects and innovative/disruptive ideas. Feel free to connect with me here :
+Call me Nicu! I am a Front End developer looking to improve myself and my technical skills everyday with passion for technology.
+. Feel free to connect with me here :
 
 [![Linkedin Badge](https://img.shields.io/badge/-nicusoriorga-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicusor-iorga/)](https://www.linkedin.com/in/nicusor-iorga/)
 [![Gmail Badge](https://img.shields.io/badge/-nicu.irg@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:nicu.irg@gmail.com)](mailto:nicu.irg@gmail.com)
