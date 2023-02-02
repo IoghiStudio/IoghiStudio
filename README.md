@@ -1,6 +1,6 @@
 ## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
 
-Call me Nicu! I am a Front End developer looking to improve myself and my technical skills everyday with passion for technology.
+Call me Nicu! I am a Front End Seveloper looking to improve myself and my technical skills everyday with passion for technology.
 . Feel free to connect with me here :
 
 [![Linkedin Badge](https://img.shields.io/badge/-nicusoriorga-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicusor-iorga/)](https://www.linkedin.com/in/nicusor-iorga/)
