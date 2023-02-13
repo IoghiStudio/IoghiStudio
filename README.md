@@ -1,4 +1,4 @@
-## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30">
+## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20">
 
 Call me Nicu! I am a Front End Developer looking to improve myself and my technical skills everyday with passion for technology.
 . Feel free to connect with me here :
