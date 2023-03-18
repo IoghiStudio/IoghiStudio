@@ -1,6 +1,6 @@
 ## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20">
 
-Call me Nicu! I am a Full Stack Developer looking to improve myself and my technical skills everyday with passion for technology. Feel free to connect with me here :
+Call me Nicu! I am a Full Stack Developer looking to improve myself and my technical skills everyday with passion for technology. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-nicusoriorga-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicusor-iorga/)](https://www.linkedin.com/in/nicusor-iorga/)
 [![Gmail Badge](https://img.shields.io/badge/-nicu.irg@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:nicu.irg@gmail.com)](mailto:nicu.irg@gmail.com)
