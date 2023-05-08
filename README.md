@@ -7,7 +7,7 @@ Just call me Nicu! As a Front End Developer with a background in game developmen
 [![Instagram Badge](https://img.shields.io/badge/-nicu.irg-purple?style=plastic&logo=instagram&logoColor=white&link=https://instagram.com/moshfiqrony/)](https://instagram.com/nicu.irg)
 [![Facebook Badge](https://img.shields.io/badge/-nicuiorga-blue?style=plastic&logo=Facebook&logoColor=white&link=https://www.facebook.com/nicu.iorga.50/)](https://www.facebook.com/nicu.iorga.50/)
 
-## ⚡ Technologies ⚡
+# ⚡ Technologies ⚡
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js)
