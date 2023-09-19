@@ -1,6 +1,8 @@
 ## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20">
 
-Just call me Nicu! As a Front End Developer with a background in game development and 3D art, I combine programming and design skills to create exceptional web applications. Passionate about technology, I am committed to continuous self-improvement and aspire to become a Senior Full Stack Developer. My expertise includes TypeScript, JavaScript, React.js, Next.js, HTML, CSS/SCSS with BEM methodology, Rest API, Git, and more.. Feel free to connect with me here:
+Passionate Front End Developer with 4 years of experience. With a background in Game Development and 3D Art. I combine my programming and design skills to create outstanding web applications.
+I’m an excellent communicator and problem solver, and am highly organized and detail-oriented. I am looking for new opportunities to apply my skills and knowledge to help create successful projects.
+My expertise includes TypeScript, JavaScript, React.js, Next.js, HTML, CSS/SCSS with BEM methodology, Rest API and many more.. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-nicusoriorga-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicusor-iorga/)](https://www.linkedin.com/in/nicusor-iorga/)
 [![Gmail Badge](https://img.shields.io/badge/-nicu.irg@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:nicu.irg@gmail.com)](mailto:nicu.irg@gmail.com)
