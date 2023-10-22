@@ -1,6 +1,6 @@
 ## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20">
 
-Passionate Front End Developer with 4 years of experience. My background in Game Development and 3D Art has equipped me with a unique skill set that combines programming and design, enabling me to craft exceptional web applications.
+Passionate Full Stack Developer with 4 years of experience. My background in Game Development and 3D Art has equipped me with a unique skill set that combines programming and design, enabling me to craft exceptional web applications.
 I’m an excellent communicator and problem solver, and am highly organized and detail-oriented. I am looking for new opportunities to apply my skills and knowledge to help create successful projects.
 My expertise includes TypeScript, JavaScript, React.js, Next.js, HTML, CSS/SCSS/BEM, Rest API , Agile, and many more.. Feel free to connect with me here:
 
