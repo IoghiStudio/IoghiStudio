@@ -2,7 +2,7 @@
 
 Passionate Full Stack Developer with 4 years of experience. My background in Game Development and 3D Art has equipped me with a unique skill set that combines programming and design, enabling me to craft exceptional web applications.
 I’m an excellent communicator and problem solver, and am highly organized and detail-oriented. I am looking for new opportunities to apply my skills and knowledge to help create successful projects.
-My expertise includes TypeScript, JavaScript, React.js, Next.js, HTML, CSS/SCSS/BEM, Rest API , Agile, and many more.. Feel free to connect with me here:
+My expertise includes TypeScript, JavaScript, React.js, Next.js, HTML, CSS/SCSS/BEM, Node.js, Express.js, PostgreSql, Rest API , Agile, and many more.. Feel free to connect with me here:
 
 [![Linkedin Badge](https://img.shields.io/badge/-nicusoriorga-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicusor-iorga/)](https://www.linkedin.com/in/nicusor-iorga/)
 [![Gmail Badge](https://img.shields.io/badge/-nicu.irg@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:nicu.irg@gmail.com)](mailto:nicu.irg@gmail.com)
