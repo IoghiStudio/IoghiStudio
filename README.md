@@ -1,8 +1,8 @@
 ## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20">
 
-Passionate Software Engineer with 6 years of involvement in software development, including 2 years of commercial experience specializing in Frontend Development.
-My background in Game Development and 3D Art has equipped me with a unique skill set that combines programming and design, enabling me to craft exceptional web applications.
-I’m an excellent communicator and problem solver, and am highly organized and detail-oriented. I am looking for new opportunities to apply my skills and knowledge to help create successful projects.
+Experienced Software Engineer with 6 years of robust programming experience, focusing on Frontend Development for the past 4 years. Showcases 2 years of proven success in commercial Frontend Development, delivering impactful solutions. Acknowledged for my clear communication, exceptional organizational skills, and meticulous attention to detail. 
+Combining expertise in Game Development and 3D Art, I offer a unique fusion of technical proficiency and creative design, driving the development of exceptional web applications. 
+Excited to leverage my expertise to contribute to the creation of impactful projects within your team.
 My expertise includes TypeScript, JavaScript, React.js, Next.js, HTML, CSS/SCSS/BEM, Node.js, Express.js, PostgreSql, Rest API , Agile, and many more.. Feel free to connect with me here :
 
 [![Linkedin Badge](https://img.shields.io/badge/-nicusoriorga-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicusor-iorga/)](https://www.linkedin.com/in/nicusor-iorga/)
