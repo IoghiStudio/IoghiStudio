@@ -21,7 +21,7 @@ My expertise includes TypeScript, JavaScript, React.js, Next.js, HTML, CSS/SCSS/
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat-square&logo=express)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white)
-![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazon-aws)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonwebservices)
 ![C#](https://img.shields.io/badge/-C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
 ![SCSS](https://img.shields.io/badge/-SCSS-CC6699?style=flat-square&logo=sass&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
