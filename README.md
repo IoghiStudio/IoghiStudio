@@ -1,4 +1,4 @@
-## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20">
+## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="18">
 
 Experienced Software Engineer with 6 years of robust programming experience, focusing on Frontend Development for the past 4 years. Acknowledged for my clear communication, exceptional organizational skills, and meticulous attention to detail. 
 Combining expertise in Game Development and 3D Art, I offer a unique fusion of technical proficiency and creative design, driving the development of exceptional web applications. 
