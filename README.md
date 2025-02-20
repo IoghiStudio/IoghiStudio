@@ -10,7 +10,7 @@ My expertise includes TypeScript, JavaScript, React.js, Next.js, HTML, CSS/SCSS/
 
 # ⚡ Technologies ⚡
 
-[![My Skills](https://skillicons.dev/icons?i=js,cs,html,css,aws,babel,blender,docker,dotnet,arduino,express,figma,git,github,graphql,jest)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,ts,cs,html,css,sass,react,nextjs,aws,babel,nodejs,express,dotnet,npm,notion,blender,docker,dotnet,arduino,express,figma,git,github,graphql,jest,unity)](https://skillicons.dev)
 
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
