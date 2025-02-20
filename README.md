@@ -1,10 +1,5 @@
 ## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="18">
 
-Experienced Software Engineer with 6 years of robust programming experience, focusing on Frontend Development for the past 4 years. Acknowledged for my clear communication, exceptional organizational skills, and meticulous attention to detail. 
-Combining expertise in Game Development and 3D Art, I offer a unique fusion of technical proficiency and creative design, driving the development of exceptional web applications. 
-Excited to leverage my expertise to contribute to the creation of impactful projects within your team.
-My expertise includes TypeScript, JavaScript, React.js, Next.js, HTML, CSS/SCSS/BEM, Node.js, Express.js, PostgreSql, Rest API , Agile, and many more.. Feel free to connect with me here :
-
 🚀 Software Engineer | Full Stack Developer
 
 With 6 years of experience building and optimizing software solutions, I specialize in full-stack development, focusing on scalability, performance, and clean architecture. I enjoy solving complex problems, optimizing workflows, and turning ideas into functional, high-quality applications.
