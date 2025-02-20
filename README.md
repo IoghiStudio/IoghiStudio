@@ -5,6 +5,16 @@ Combining expertise in Game Development and 3D Art, I offer a unique fusion of t
 Excited to leverage my expertise to contribute to the creation of impactful projects within your team.
 My expertise includes TypeScript, JavaScript, React.js, Next.js, HTML, CSS/SCSS/BEM, Node.js, Express.js, PostgreSql, Rest API , Agile, and many more.. Feel free to connect with me here :
 
+🚀 Software Engineer | Full Stack Developer
+
+With 6 years of experience building and optimizing software solutions, I specialize in full-stack development, focusing on scalability, performance, and clean architecture. I enjoy solving complex problems, optimizing workflows, and turning ideas into functional, high-quality applications.
+
+💡 Tech Stack: TypeScript, JavaScript, React.js, Next.js, Node.js, Express.js, PostgreSQL, REST APIs, Git, Agile, and more.
+
+🔗 Always open to collaborations, discussions, and new opportunities. Feel free to connect!
+
+📩 Email: nicu.irg@gmail.com
+
 [![Linkedin Badge](https://img.shields.io/badge/-nicusoriorga-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicusor-iorga/)](https://www.linkedin.com/in/nicusor-iorga/)
 [![Gmail Badge](https://img.shields.io/badge/-nicu.irg@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:nicu.irg@gmail.com)](mailto:nicu.irg@gmail.com)
 
