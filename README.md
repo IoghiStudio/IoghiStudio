@@ -2,7 +2,7 @@
 
 🚀 Software Engineer | Full Stack Developer
 
-With 6 years of experience building and optimizing software solutions, I specialize in full-stack development, focusing on scalability, performance, and clean architecture. I enjoy solving complex problems, optimizing workflows, and turning ideas into functional, high-quality applications.
+With 6 years of experience building and optimizing software solutions , I specialize in full-stack development, focusing on scalability, performance, and clean architecture. I enjoy solving complex problems, optimizing workflows, and turning ideas into functional, high-quality applications.
 
 💡 Passionate about performance optimization, user experience, and robust software design.
 
