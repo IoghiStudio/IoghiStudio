@@ -1,4 +1,4 @@
-## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="24">
+## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="26">
 
 🚀 Software Engineer | Full Stack Developer
 
