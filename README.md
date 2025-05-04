@@ -6,7 +6,7 @@ With 6 years of experience building and optimizing software solutions, I special
 
 💡 Passionate about performance optimization, user experience, and robust software design.
 
-🔗 Always open to collaborations, discussions, and new opportunities. Feel free to connect!!
+🔗 Always open to collaborations, discussions, and new opportunities. Feel free to connect!
 
 [![Linkedin Badge](https://img.shields.io/badge/-nicusoriorga-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicusor-iorga/)](https://www.linkedin.com/in/nicusor-iorga/)
 [![Gmail Badge](https://img.shields.io/badge/-nicu.irg@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:nicu.irg@gmail.com)](mailto:nicu.irg@gmail.com)
