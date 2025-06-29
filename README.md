@@ -15,7 +15,7 @@ With 6 years of experience building and optimizing software solutions, I special
 
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cs,html,css,sass,react,nextjs,aws,babel,nodejs,express,dotnet,npm,notion,blender,docker,dotnet,arduino,express,figma,git,github,graphql,jest,unity)](https://skillicons.dev)
 
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+[HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
