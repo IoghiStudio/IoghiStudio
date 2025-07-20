@@ -5,7 +5,6 @@
 With 6 years of experience building and optimizing software solutions, I specialize in full-stack development, focusing on scalability, performance, and clean architecture. I enjoy solving complex problems, optimizing workflows, and turning ideas into functional, high-quality applications.
 
 🔹 Core Skills: TypeScript, JavaScript, React.js, Next.js, Node.js, REST APIs, Git and more.
-
 🔹 Passionate about performance optimization, user experience, and robust software design.
 
 💡 Always open to exciting opportunities, collaborations, and discussions.
