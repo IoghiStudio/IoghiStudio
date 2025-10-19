@@ -1,13 +1,10 @@
 ## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="24>
 
-🚀 Software Engineer | Full Stack Developer
+Software Engineer (Frontend) — React & TypeScript.
+6+ years building software, 3 years’ commercial in web frontend. I care about fast, accessible UIs, clean component architecture, and pragmatic data/state patterns. Comfortable across APIs when needed (Next.js, Node, PostgreSQL).
 
-With 6 years of experience building and optimizing software solutions, I specialize in full-stack development, focusing on scalability, performance, and clean architecture. I enjoy solving complex problems, optimizing workflows, and turning ideas into functional, high-quality applications.
-
-🔹 Core Skills: TypeScript, JavaScript, React.js, Next.js, Node.js, PostgreSQL, AWS and more.                                                                                          
-🔹 Passionate about performance optimization, user experience, and robust software design.
-
-💡 Always open to exciting opportunities, collaborations, and discussions.
+Core stack: React, TypeScript, Next.js, React Query, HTML/CSS (Tailwind, MUI), REST/GraphQL, Jest/Vitest, RTL, GitHub Actions, Vite, Docker · Vercel; AWS.
+Portfolio: nicusor-iorga.vercel.app
 
 [![Linkedin Badge](https://img.shields.io/badge/-nicusoriorga-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicusor-iorga/)](https://www.linkedin.com/in/nicusor-iorga/)
 [![Gmail Badge](https://img.shields.io/badge/-nicu.irg@gmail.com-c14438?style=plastic&logo=Gmail&logoColor=white&link=mailto:nicu.irg@gmail.com)](mailto:nicu.irg@gmail.com)
