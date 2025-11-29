@@ -1,4 +1,4 @@
-## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="24">
+## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="27">
 
 👨‍💻 Software Engineer (Frontend) - React & TypeScript
 6+ years building software, 3 years’ commercial in web frontend. I care about fast, accessible UIs, clean component architecture, and pragmatic state/data patterns. Comfortable across APIs when needed (Next.js, Node, PostgreSQL).
