@@ -1,7 +1,7 @@
 ## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="26">
 
 👨‍💻 Software Engineer (Frontend) - React & TypeScript
-6+ years building software, 3 years’ commercial in web frontend. I care about fast, accessible UIs, clean component architecture, and pragmatic state/data patterns. Comfortable across APIs when needed (Next.js, Node, PostgreSQL).
+7+ years building software, 4 years’ commercial in web frontend. I care about fast, accessible UIs, clean component architecture, and pragmatic state/data patterns. Comfortable across APIs when needed (Next.js, Node, PostgreSQL).
 
 🧰 Core stack: React · TypeScript · Next.js · React Query · HTML/CSS (Tailwind, MUI) · REST/GraphQL · Jest/Vitest · RTL · GitHub Actions · Vite · Docker · Vercel/AWS
 🌐 Portfolio: nicusor-iorga.vercel.app
