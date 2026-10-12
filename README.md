@@ -6,14 +6,14 @@ I build interfaces for AI and B2B SaaS products, combining frontend architecture
 
 My work spans building frontends from scratch, refactoring complex codebases, contributing to design systems, and improving performance and user flows. I take ownership beyond implementation, shaping solutions and delivering maintainable systems and polished, accessible interfaces.
 
-🧰 Core stack
+🧰 Core stack<br>
 React · TypeScript · Next.js · TanStack Query (React Query) · HTML/CSS · Tailwind CSS · MUI · REST/GraphQL
 
-🧪 Testing
+🧪 Testing<br>
 Jest · Vitest · React Testing Library (RTL)
 
-⚙️ Development & delivery
-GitHub Actions · Vite · Docker · Vercel · AWS
+⚙️ Development & delivery<br>
+GitHub Actions · Vite · Docker · Vercel · AWS<br>
 AI-assisted development: Claude Code · coding agents
 
 🔌 Backend<br>
