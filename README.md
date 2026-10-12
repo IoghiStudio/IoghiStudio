@@ -1,9 +1,24 @@
 ## Happy seeing you here! <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="26">
 
-👨‍💻 Software Engineer (Frontend) - React & TypeScript
-7+ years building software, 4 years’ commercial in web frontend. I care about fast, accessible UIs, clean component architecture, and pragmatic state/data patterns. Comfortable across APIs when needed (Next.js, Node, PostgreSQL).
+👨‍💻 Frontend Engineer | React & TypeScript
 
-🧰 Core stack: React · TypeScript · Next.js · React Query · HTML/CSS (Tailwind, MUI) · REST/GraphQL · Jest/Vitest · RTL · GitHub Actions · Vite · Docker · Vercel/AWS
+I build interfaces for AI and B2B SaaS products, combining frontend architecture with a strong eye for UI/UX. I have 7+ years in software development and currently work at Abacus.AI on ChatLLM and DeepAgent.
+
+My work spans building frontends from scratch, refactoring complex codebases, contributing to design systems, and improving performance and user flows. I take ownership beyond implementation, shaping solutions and delivering maintainable systems and polished, accessible interfaces.
+
+🧰 Core stack
+React · TypeScript · Next.js · TanStack Query (React Query) · HTML/CSS · Tailwind CSS · MUI · REST/GraphQL
+
+🧪 Testing
+Jest · Vitest · React Testing Library (RTL)
+
+⚙️ Development & delivery
+GitHub Actions · Vite · Docker · Vercel · AWS
+AI-assisted development: Claude Code · coding agents
+
+🔌 Backend
+Node.js · PostgreSQL
+
 🌐 Portfolio: nicusor-iorga.vercel.app
 
 [![Linkedin Badge](https://img.shields.io/badge/-nicusoriorga-blue?style=plastic&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/nicusor-iorga/)](https://www.linkedin.com/in/nicusor-iorga/)
