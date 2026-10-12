@@ -6,18 +6,29 @@ I build interfaces for AI and B2B SaaS products, combining frontend architecture
 
 My work spans building frontends from scratch, refactoring complex codebases, contributing to design systems, and improving performance and user flows. I take ownership beyond implementation, shaping solutions and delivering maintainable systems and polished, accessible interfaces.
 
-🧰 Core stack<br>
-React · TypeScript · Next.js · TanStack Query (React Query) · HTML/CSS · Tailwind CSS · MUI · REST/GraphQL
+**🧰 Frontend**<br>
+React · TypeScript · JavaScript (ES6+) · Next.js · HTML5 · CSS3/SCSS
 
-🧪 Testing<br>
-Jest · Vitest · React Testing Library (RTL)
+**🎨 UI & Design Systems**<br>
+Tailwind CSS · MUI · Storybook · Figma<br>
+Responsive design · Accessibility
 
-⚙️ Development & delivery<br>
-GitHub Actions · Vite · Docker · Vercel · AWS<br>
+**🔄 State Management & APIs**<br>
+TanStack Query (React Query) · Zustand · Jotai<br>
+REST APIs · GraphQL · Axios · Postman · Shopify GraphQL APIs · Stripe integrations
+
+**🧪 Testing & Code Quality**<br>
+React Testing Library (RTL) · Vitest · Jest · ESLint · Prettier
+
+**⚙️ Development & Delivery**<br>
+Git · GitHub Actions (CI/CD) · Vite · Docker · Vercel · AWS<br>
 AI-assisted development: Claude Code · coding agents
 
-🔌 Backend<br>
-Node.js · PostgreSQL
+**🗄️ Backend & Databases**<br>
+Node.js · Express · PostgreSQL · Prisma · SQL
+
+**🤝 Collaboration**<br>
+Jira · Notion · ClickUp
 
 🌐 Portfolio: nicusor-iorga.vercel.app
 
