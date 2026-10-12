@@ -16,7 +16,7 @@ Jest · Vitest · React Testing Library (RTL)
 GitHub Actions · Vite · Docker · Vercel · AWS
 AI-assisted development: Claude Code · coding agents
 
-🔌 Backend
+🔌 Backend<br>
 Node.js · PostgreSQL
 
 🌐 Portfolio: nicusor-iorga.vercel.app
