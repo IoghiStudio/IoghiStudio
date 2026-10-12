@@ -14,6 +14,7 @@ Jest · Vitest · React Testing Library (RTL)
 
 ⚙️ Development & delivery
 GitHub Actions · Vite · Docker · Vercel · AWS
+
 AI-assisted development: Claude Code · coding agents
 
 🔌 Backend
